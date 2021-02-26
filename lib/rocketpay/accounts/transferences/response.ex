@@ -1,4 +1,4 @@
-defmodule Rockerpay.Accounts.Transferences.Responses do
+defmodule Rocketpay.Accounts.Transferences.Responses do
   alias Rocketpay.Account
 
   defstruct [:from_account, :to_account]
